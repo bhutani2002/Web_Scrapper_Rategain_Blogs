@@ -10,11 +10,13 @@ from openpyxl import Workbook
 from selenium.common.exceptions import NoSuchElementException
 import sys
 import socket
-from flask import Flask, jsonify, make_response
+from flask import Flask, jsonify, make_response, send_file
+from flask_cors import CORS
+import json
 
 local_server = True
 app = Flask(__name__)
-
+CORS(app, resources={r"/start": {"origins": "http://localhost:3000"}, r"/download_excel": {"origins": "http://localhost:3000"}})
 import logging.config
 
 logging.config.fileConfig("logging.conf", disable_existing_loggers=False)
@@ -223,6 +225,23 @@ def index():
     return response
 
 
+@app.route("/download_excel", methods=["GET"])
+def download_excel():
+    try:
+        file_path = "Blogs_Data.xlsx"  # Assuming this is the path where you saved the Excel file
+        flask_logger.info("Downloading the excel workbook.")
+        return send_file(file_path, as_attachment=True)
+    except Exception as e:
+        app_logger.error(f"An unexpected error occurred: {e}")
+        data = {"status": "Failure", "message": "Could not download the Excel file."}
+        status_code = 500
+        response = make_response(jsonify(data), status_code)
+        response.headers["Content-Type"] = "application/json"
+        flask_logger.info(f"GET HTTP request -- status-code : {response.status_code}")
+        return response
+
+
+
 def setPort():
     # To set port number
     sock = socket.socket()
@@ -235,8 +254,10 @@ def setPort():
 if __name__ == "__main__":
     port = setPort()
 
-    with open("port.txt", "w") as f:
-        f.write(str(port))
+    with open("../frontend/src/port.json", "w") as f:
+        # f.write(str(port))
+        port_number = {"PORT": str(port)}
+        json.dump(port_number, f)
 
     flask_logger.info("Starting the Scraper")
     app.run(port=port)

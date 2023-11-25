@@ -1,0 +1,310 @@
+2023-11-25 16:23:13,368 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:23:25,811 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:23:47,973 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:23:49,591 - app - INFO - Starting interation over all pages.
+2023-11-25 16:24:03,662 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:24:03,881 - app - INFO - appending the gathered data.
+2023-11-25 16:24:15,937 - app - INFO - Finding all required elements on page 2
+2023-11-25 16:24:16,059 - app - INFO - appending the gathered data.
+2023-11-25 16:24:23,026 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 33 seconds.
+2023-11-25 16:24:23,026 - app - INFO - Creating an excel file.
+2023-11-25 16:24:23,031 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:26:35,770 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:26:49,392 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:26:51,873 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:26:54,083 - app - INFO - Starting interation over all pages.
+2023-11-25 16:27:06,359 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:27:07,089 - app - INFO - appending the gathered data.
+2023-11-25 16:27:16,965 - app - INFO - Finding all required elements on page 2
+2023-11-25 16:27:17,080 - app - INFO - appending the gathered data.
+2023-11-25 16:27:21,464 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 27 seconds.
+2023-11-25 16:27:21,465 - app - INFO - Creating an excel file.
+2023-11-25 16:27:21,470 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:29:53,311 - flask - INFO - Starting the Scraper
+2023-11-25 16:31:17,458 - flask - INFO - Starting the Scraper
+2023-11-25 16:31:25,514 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:31:37,779 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:31:43,502 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:31:44,774 - app - INFO - Starting interation over all pages.
+2023-11-25 16:31:57,253 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:31:57,455 - app - INFO - appending the gathered data.
+2023-11-25 16:32:08,290 - app - INFO - Finding all required elements on page 2
+2023-11-25 16:32:08,367 - app - INFO - appending the gathered data.
+2023-11-25 16:32:11,662 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 26 seconds.
+2023-11-25 16:32:11,662 - app - INFO - Creating an excel file.
+2023-11-25 16:32:11,666 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:32:14,359 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 16:36:17,395 - flask - INFO - Starting the Scraper
+2023-11-25 16:36:44,172 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:36:55,248 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:37:00,197 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:37:01,932 - app - INFO - Starting interation over all pages.
+2023-11-25 16:37:14,085 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:37:14,314 - app - INFO - appending the gathered data.
+2023-11-25 16:37:18,821 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 16:37:18,821 - app - INFO - Creating an excel file.
+2023-11-25 16:37:18,824 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:37:21,402 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 16:37:38,113 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:37:50,228 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:37:55,180 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:37:56,204 - app - INFO - Starting interation over all pages.
+2023-11-25 16:38:08,496 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:38:08,678 - app - INFO - appending the gathered data.
+2023-11-25 16:38:12,574 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 16:38:12,575 - app - INFO - Creating an excel file.
+2023-11-25 16:38:12,578 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:38:15,162 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 16:41:08,096 - flask - INFO - Starting the Scraper
+2023-11-25 16:41:23,563 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:41:32,263 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:41:40,238 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:41:40,747 - app - INFO - Starting interation over all pages.
+2023-11-25 16:41:52,876 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:41:53,004 - app - INFO - appending the gathered data.
+2023-11-25 16:41:56,315 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 15 seconds.
+2023-11-25 16:41:56,315 - app - INFO - Creating an excel file.
+2023-11-25 16:41:56,321 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:41:59,129 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 16:45:42,651 - flask - INFO - Starting the Scraper
+2023-11-25 16:46:16,347 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:46:24,505 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:46:33,497 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:46:33,966 - app - INFO - Starting interation over all pages.
+2023-11-25 16:46:46,246 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:46:46,407 - app - INFO - appending the gathered data.
+2023-11-25 16:46:55,702 - app - INFO - Finding all required elements on page 2
+2023-11-25 16:46:55,875 - app - INFO - appending the gathered data.
+2023-11-25 16:47:05,775 - app - INFO - Finding all required elements on page 3
+2023-11-25 16:47:05,893 - app - INFO - appending the gathered data.
+2023-11-25 16:47:15,856 - app - INFO - Finding all required elements on page 4
+2023-11-25 16:47:16,030 - app - INFO - appending the gathered data.
+2023-11-25 16:47:25,263 - app - INFO - Finding all required elements on page 5
+2023-11-25 16:47:25,458 - app - INFO - appending the gathered data.
+2023-11-25 16:47:37,900 - app - INFO - Finding all required elements on page 6
+2023-11-25 16:47:38,096 - app - INFO - appending the gathered data.
+2023-11-25 16:47:48,281 - app - INFO - Finding all required elements on page 7
+2023-11-25 16:47:48,476 - app - INFO - appending the gathered data.
+2023-11-25 16:47:58,379 - app - INFO - Finding all required elements on page 8
+2023-11-25 16:47:58,579 - app - INFO - appending the gathered data.
+2023-11-25 16:48:11,481 - app - INFO - Finding all required elements on page 9
+2023-11-25 16:48:11,834 - app - INFO - appending the gathered data.
+2023-11-25 16:48:24,778 - app - INFO - Finding all required elements on page 10
+2023-11-25 16:48:24,875 - app - INFO - appending the gathered data.
+2023-11-25 16:48:35,214 - app - INFO - Finding all required elements on page 11
+2023-11-25 16:48:35,399 - app - INFO - appending the gathered data.
+2023-11-25 16:51:57,919 - flask - INFO - Starting the Scraper
+2023-11-25 16:54:00,302 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:54:03,788 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:54:08,215 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:54:08,608 - app - INFO - Starting interation over all pages.
+2023-11-25 16:55:02,310 - flask - INFO - Starting the Scraper
+2023-11-25 16:55:43,470 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:55:47,456 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:55:51,166 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:55:51,927 - app - INFO - Starting interation over all pages.
+2023-11-25 16:56:04,063 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:56:04,142 - app - INFO - appending the gathered data.
+2023-11-25 16:56:06,946 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 15 seconds.
+2023-11-25 16:56:06,946 - app - INFO - Creating an excel file.
+2023-11-25 16:56:06,948 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:56:09,175 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 20:38:45,887 - flask - INFO - Starting the Scraper
+2023-11-25 20:44:17,225 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 20:44:20,979 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 20:44:27,115 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 20:44:27,563 - app - INFO - Starting interation over all pages.
+2023-11-25 20:44:39,681 - app - INFO - Finding all required elements on page 1
+2023-11-25 20:44:39,747 - app - INFO - appending the gathered data.
+2023-11-25 20:44:50,509 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 22 seconds.
+2023-11-25 20:44:50,509 - app - INFO - Creating an excel file.
+2023-11-25 20:44:50,546 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 20:44:52,864 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 20:45:29,366 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 20:45:32,455 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 20:45:48,223 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 20:45:48,391 - app - INFO - Starting interation over all pages.
+2023-11-25 20:46:00,548 - app - INFO - Finding all required elements on page 1
+2023-11-25 20:46:00,650 - app - INFO - appending the gathered data.
+2023-11-25 20:46:12,820 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 24 seconds.
+2023-11-25 20:46:12,820 - app - INFO - Creating an excel file.
+2023-11-25 20:46:12,823 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 20:46:15,054 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 20:48:00,609 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 20:48:03,122 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 20:48:16,314 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 20:48:16,690 - app - INFO - Starting interation over all pages.
+2023-11-25 20:48:28,815 - app - INFO - Finding all required elements on page 1
+2023-11-25 20:48:28,876 - app - INFO - appending the gathered data.
+2023-11-25 20:48:48,344 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 31 seconds.
+2023-11-25 20:48:48,344 - app - INFO - Creating an excel file.
+2023-11-25 20:48:48,347 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 20:48:50,563 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 20:51:18,348 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 20:51:21,963 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 20:51:25,640 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 20:51:26,207 - app - INFO - Starting interation over all pages.
+2023-11-25 20:51:38,591 - app - INFO - Finding all required elements on page 1
+2023-11-25 20:51:38,644 - app - INFO - appending the gathered data.
+2023-11-25 20:51:48,278 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 22 seconds.
+2023-11-25 20:51:48,279 - app - INFO - Creating an excel file.
+2023-11-25 20:51:48,283 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 20:51:50,486 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 20:56:36,727 - flask - INFO - Starting the Scraper
+2023-11-25 20:59:52,496 - flask - INFO - Starting the Scraper
+2023-11-25 21:00:32,052 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 21:00:35,743 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 21:00:41,980 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 21:00:59,660 - flask - INFO - Starting the Scraper
+2023-11-25 21:04:12,747 - flask - INFO - Starting the Scraper
+2023-11-25 21:04:45,482 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 21:04:49,437 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 21:04:53,681 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 21:04:54,877 - app - INFO - Starting interation over all pages.
+2023-11-25 21:05:07,071 - app - INFO - Finding all required elements on page 1
+2023-11-25 21:05:07,148 - app - INFO - appending the gathered data.
+2023-11-25 21:05:11,196 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 21:05:11,196 - app - INFO - Creating an excel file.
+2023-11-25 21:05:11,197 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 21:05:13,416 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 21:15:54,164 - flask - INFO - Starting the Scraper
+2023-11-25 21:27:33,174 - flask - INFO - Starting the Scraper
+2023-11-25 21:28:45,304 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 21:28:48,777 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 21:28:54,247 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 21:28:54,818 - app - INFO - Starting interation over all pages.
+2023-11-25 21:29:06,997 - app - INFO - Finding all required elements on page 1
+2023-11-25 21:29:07,120 - app - INFO - appending the gathered data.
+2023-11-25 21:29:12,312 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 17 seconds.
+2023-11-25 21:29:12,313 - app - INFO - Creating an excel file.
+2023-11-25 21:29:12,316 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 21:29:14,624 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:23:57,719 - flask - INFO - Starting the Scraper
+2023-11-25 22:25:28,192 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:25:31,783 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:25:37,378 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:25:38,156 - app - INFO - Starting interation over all pages.
+2023-11-25 22:25:50,307 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:25:50,445 - app - INFO - appending the gathered data.
+2023-11-25 22:25:57,887 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 19 seconds.
+2023-11-25 22:25:57,888 - app - INFO - Creating an excel file.
+2023-11-25 22:25:57,898 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:26:00,179 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:29:01,734 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:29:06,206 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:29:17,282 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:29:17,810 - app - INFO - Starting interation over all pages.
+2023-11-25 22:29:29,980 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:29:29,982 - app - ERROR - Could not find the elements.
+2023-11-25 22:29:32,070 - flask - INFO - GET HTTP request -- status-code : 500
+2023-11-25 22:29:44,413 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:29:47,804 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:29:54,565 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:29:55,090 - app - INFO - Starting interation over all pages.
+2023-11-25 22:30:07,241 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:30:07,382 - app - INFO - appending the gathered data.
+2023-11-25 22:30:11,598 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 22:30:11,598 - app - INFO - Creating an excel file.
+2023-11-25 22:30:11,599 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:30:13,814 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:31:34,522 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:31:37,839 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:31:50,826 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:31:51,077 - app - INFO - Starting interation over all pages.
+2023-11-25 22:32:03,216 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:32:03,377 - app - INFO - appending the gathered data.
+2023-11-25 22:32:10,487 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 19 seconds.
+2023-11-25 22:32:10,487 - app - INFO - Creating an excel file.
+2023-11-25 22:32:10,494 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:32:12,766 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:33:02,882 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:33:07,115 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:33:22,551 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:33:22,762 - app - INFO - Starting interation over all pages.
+2023-11-25 22:33:34,919 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:33:40,041 - app - INFO - appending the gathered data.
+2023-11-25 22:33:43,134 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 20 seconds.
+2023-11-25 22:33:43,135 - app - INFO - Creating an excel file.
+2023-11-25 22:33:43,135 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:33:45,351 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:39:24,289 - flask - INFO - Starting the Scraper
+2023-11-25 22:40:46,646 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:40:49,319 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:40:57,657 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:40:57,835 - app - INFO - Starting interation over all pages.
+2023-11-25 22:41:10,004 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:41:15,116 - app - INFO - appending the gathered data.
+2023-11-25 22:41:18,915 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 21 seconds.
+2023-11-25 22:41:18,916 - app - INFO - Creating an excel file.
+2023-11-25 22:41:18,919 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:41:21,117 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:43:06,201 - flask - INFO - Starting the Scraper
+2023-11-25 22:43:17,481 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:43:21,419 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:43:28,723 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:43:29,243 - app - INFO - Starting interation over all pages.
+2023-11-25 22:43:41,399 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:43:41,532 - app - INFO - appending the gathered data.
+2023-11-25 22:43:46,112 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 22:43:46,112 - app - INFO - Creating an excel file.
+2023-11-25 22:43:46,113 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:43:48,330 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:47:22,586 - flask - INFO - Starting the Scraper
+2023-11-25 22:48:03,066 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:48:06,310 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:48:13,889 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:48:14,354 - app - INFO - Starting interation over all pages.
+2023-11-25 22:48:26,456 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:48:26,551 - app - INFO - appending the gathered data.
+2023-11-25 22:48:30,463 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 22:48:30,464 - app - INFO - Creating an excel file.
+2023-11-25 22:48:30,467 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:48:33,008 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:50:04,373 - flask - INFO - Starting the Scraper
+2023-11-25 22:50:15,859 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:50:18,549 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:50:28,173 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:50:28,374 - app - INFO - Starting interation over all pages.
+2023-11-25 22:50:40,561 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:50:40,685 - app - INFO - appending the gathered data.
+2023-11-25 22:50:42,802 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 14 seconds.
+2023-11-25 22:50:42,802 - app - INFO - Creating an excel file.
+2023-11-25 22:50:42,803 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:50:44,976 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:52:13,203 - flask - INFO - Starting the Scraper
+2023-11-25 22:52:36,497 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:52:39,236 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:52:43,744 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:52:44,355 - app - INFO - Starting interation over all pages.
+2023-11-25 22:52:56,605 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:52:56,778 - app - INFO - appending the gathered data.
+2023-11-25 22:53:01,132 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 22:53:01,132 - app - INFO - Creating an excel file.
+2023-11-25 22:53:01,134 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:53:03,347 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:55:43,324 - flask - INFO - Starting the Scraper
+2023-11-25 22:55:59,877 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:56:10,396 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:56:18,542 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:56:19,013 - app - INFO - Starting interation over all pages.
+2023-11-25 22:56:31,196 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:56:31,293 - app - INFO - appending the gathered data.
+2023-11-25 22:56:36,633 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 17 seconds.
+2023-11-25 22:56:36,633 - app - INFO - Creating an excel file.
+2023-11-25 22:56:36,637 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:56:38,968 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:56:50,713 - flask - INFO - Downloading the excel workbook.
+2023-11-25 22:57:37,462 - flask - INFO - Starting the Scraper
+2023-11-25 22:58:20,749 - flask - INFO - Downloading the excel workbook.
+2023-11-25 22:58:39,387 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 22:58:42,276 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 22:58:49,480 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 22:58:49,774 - app - INFO - Starting interation over all pages.
+2023-11-25 22:59:01,904 - app - INFO - Finding all required elements on page 1
+2023-11-25 22:59:02,033 - app - INFO - appending the gathered data.
+2023-11-25 22:59:07,169 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 17 seconds.
+2023-11-25 22:59:07,170 - app - INFO - Creating an excel file.
+2023-11-25 22:59:07,182 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 22:59:09,493 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 22:59:17,162 - flask - INFO - Downloading the excel workbook.
+2023-11-25 23:00:31,829 - flask - INFO - Starting the Scraper
