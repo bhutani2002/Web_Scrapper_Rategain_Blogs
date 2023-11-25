@@ -1,5 +1,5 @@
 # RateGain Code Rangers - Submission Report
-### Geeky_Potential_Players
+### Team:  Geeky_Potential_Players
 
 * Raag Bhutani
 * Shudhant
@@ -77,6 +77,11 @@ This will execute the frontend code, and it will be accessible on a port number 
 
 Now, you have successfully completed the web scraping process and downloaded the extracted data.
 
+#### Working of RateCrawlerX
+### VIDEO
+```sh
+
+```
 ### SnapShot of the Landing Page
 ![image](https://github.com/bhutani2002/Web_Scrapper_Rategain_Blogs/assets/84590758/77d2b5bd-44e4-4bb3-965a-be78dcda3e51)
 
