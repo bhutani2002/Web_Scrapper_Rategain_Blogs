@@ -1,101 +1,95 @@
-2023-11-25 13:59:01,991 - root - INFO - Opening Chrome in Testing Environment
-2023-11-25 13:59:01,992 - WDM - INFO - ====== WebDriver manager ======
-2023-11-25 13:59:04,609 - WDM - INFO - Get LATEST chromedriver version for google-chrome
-2023-11-25 13:59:06,679 - WDM - INFO - Get LATEST chromedriver version for google-chrome
-2023-11-25 13:59:09,243 - WDM - INFO - Driver [C:\Users\shudh\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
-2023-11-25 13:59:11,026 - root - INFO - Opening url: https://rategain.com/blog/
-2023-11-25 13:59:23,450 - root - INFO - https://rategain.com/blog/ opened successfully.
-2023-11-25 13:59:24,722 - root - INFO - Starting interation over all pages.
-2023-11-25 13:59:36,888 - root - INFO - Finding all required elements on page 1
-2023-11-25 13:59:37,101 - root - INFO - appending the gathered data.
-2023-11-25 13:59:47,918 - root - INFO - Finding all required elements on page 2
-2023-11-25 13:59:48,069 - root - INFO - appending the gathered data.
-2023-11-25 13:59:59,211 - root - INFO - Finding all required elements on page 3
-2023-11-25 13:59:59,375 - root - INFO - appending the gathered data.
-2023-11-25 14:00:08,712 - root - INFO - Finding all required elements on page 4
-2023-11-25 14:00:08,869 - root - INFO - appending the gathered data.
-2023-11-25 14:00:19,513 - root - INFO - Finding all required elements on page 5
-2023-11-25 14:00:19,676 - root - INFO - appending the gathered data.
-2023-11-25 14:00:29,694 - root - INFO - Finding all required elements on page 6
-2023-11-25 14:00:29,848 - root - INFO - appending the gathered data.
-2023-11-25 14:00:42,094 - root - INFO - Finding all required elements on page 7
-2023-11-25 14:00:42,262 - root - INFO - appending the gathered data.
-2023-11-25 14:00:56,103 - root - INFO - Finding all required elements on page 8
-2023-11-25 14:00:56,275 - root - INFO - appending the gathered data.
-2023-11-25 14:01:06,244 - root - INFO - Finding all required elements on page 9
-2023-11-25 14:01:06,333 - root - INFO - appending the gathered data.
-2023-11-25 14:01:18,438 - root - INFO - Finding all required elements on page 10
-2023-11-25 14:01:18,607 - root - INFO - appending the gathered data.
-2023-11-25 14:01:29,041 - root - INFO - Finding all required elements on page 11
-2023-11-25 14:01:29,193 - root - INFO - appending the gathered data.
-2023-11-25 14:01:41,011 - root - INFO - Finding all required elements on page 12
-2023-11-25 14:01:41,219 - root - INFO - appending the gathered data.
-2023-11-25 14:01:54,831 - root - INFO - Finding all required elements on page 13
-2023-11-25 14:01:55,025 - root - INFO - appending the gathered data.
-2023-11-25 14:02:09,116 - root - INFO - Finding all required elements on page 14
-2023-11-25 14:02:09,298 - root - INFO - appending the gathered data.
-2023-11-25 14:02:21,501 - root - INFO - Finding all required elements on page 15
-2023-11-25 14:02:21,670 - root - INFO - appending the gathered data.
-2023-11-25 14:02:34,603 - root - INFO - Finding all required elements on page 16
-2023-11-25 14:02:34,764 - root - INFO - appending the gathered data.
-2023-11-25 14:02:46,220 - root - INFO - Finding all required elements on page 17
-2023-11-25 14:02:46,375 - root - INFO - appending the gathered data.
-2023-11-25 14:02:58,883 - root - INFO - Finding all required elements on page 18
-2023-11-25 14:02:59,074 - root - INFO - appending the gathered data.
-2023-11-25 14:03:09,180 - root - INFO - Finding all required elements on page 19
-2023-11-25 14:03:09,338 - root - INFO - appending the gathered data.
-2023-11-25 14:03:24,882 - root - INFO - Finding all required elements on page 20
-2023-11-25 14:03:24,975 - root - INFO - appending the gathered data.
-2023-11-25 14:03:34,933 - root - INFO - Finding all required elements on page 21
-2023-11-25 14:03:35,112 - root - INFO - appending the gathered data.
-2023-11-25 14:03:45,901 - root - INFO - Finding all required elements on page 22
-2023-11-25 14:03:46,106 - root - INFO - appending the gathered data.
-2023-11-25 14:03:58,378 - root - INFO - Finding all required elements on page 23
-2023-11-25 14:03:58,583 - root - INFO - appending the gathered data.
-2023-11-25 14:04:11,403 - root - INFO - Finding all required elements on page 24
-2023-11-25 14:04:11,635 - root - INFO - appending the gathered data.
-2023-11-25 14:04:28,590 - root - INFO - Finding all required elements on page 25
-2023-11-25 14:04:28,794 - root - INFO - appending the gathered data.
-2023-11-25 14:04:39,498 - root - INFO - Finding all required elements on page 26
-2023-11-25 14:04:39,691 - root - INFO - appending the gathered data.
-2023-11-25 14:04:51,232 - root - INFO - Finding all required elements on page 27
-2023-11-25 14:04:51,430 - root - INFO - appending the gathered data.
-2023-11-25 14:05:04,002 - root - INFO - Finding all required elements on page 28
-2023-11-25 14:05:04,196 - root - INFO - appending the gathered data.
-2023-11-25 14:05:16,879 - root - INFO - Finding all required elements on page 29
-2023-11-25 14:05:17,086 - root - INFO - appending the gathered data.
-2023-11-25 14:05:32,615 - root - INFO - Finding all required elements on page 30
-2023-11-25 14:05:32,812 - root - INFO - appending the gathered data.
-2023-11-25 14:05:43,412 - root - INFO - Finding all required elements on page 31
-2023-11-25 14:05:43,570 - root - INFO - appending the gathered data.
-2023-11-25 14:05:54,108 - root - INFO - Finding all required elements on page 32
-2023-11-25 14:05:54,258 - root - INFO - appending the gathered data.
-2023-11-25 14:06:04,434 - root - INFO - Finding all required elements on page 33
-2023-11-25 14:06:04,510 - root - INFO - appending the gathered data.
-2023-11-25 14:06:14,107 - root - INFO - Finding all required elements on page 34
-2023-11-25 14:06:14,226 - root - INFO - appending the gathered data.
-2023-11-25 14:06:28,755 - root - INFO - Finding all required elements on page 35
-2023-11-25 14:06:28,896 - root - INFO - appending the gathered data.
-2023-11-25 14:06:39,482 - root - INFO - Finding all required elements on page 36
-2023-11-25 14:06:39,656 - root - INFO - appending the gathered data.
-2023-11-25 14:06:57,270 - root - INFO - Finding all required elements on page 37
-2023-11-25 14:06:57,464 - root - INFO - appending the gathered data.
-2023-11-25 14:07:09,136 - root - INFO - Finding all required elements on page 38
-2023-11-25 14:07:09,289 - root - INFO - appending the gathered data.
-2023-11-25 14:07:23,077 - root - INFO - Finding all required elements on page 39
-2023-11-25 14:07:23,270 - root - INFO - appending the gathered data.
-2023-11-25 14:07:35,494 - root - INFO - Finding all required elements on page 40
-2023-11-25 14:07:35,697 - root - INFO - appending the gathered data.
-2023-11-25 14:07:45,737 - root - INFO - Finding all required elements on page 41
-2023-11-25 14:07:45,890 - root - INFO - appending the gathered data.
-2023-11-25 14:08:00,563 - root - INFO - Finding all required elements on page 42
-2023-11-25 14:08:00,765 - root - INFO - appending the gathered data.
-2023-11-25 14:08:12,786 - root - INFO - Finding all required elements on page 43
-2023-11-25 14:08:12,976 - root - INFO - appending the gathered data.
-2023-11-25 14:08:30,296 - root - INFO - Finding all required elements on page 44
-2023-11-25 14:08:30,488 - root - INFO - appending the gathered data.
-2023-11-25 14:08:40,738 - root - INFO - Finding all required elements on page 45
-2023-11-25 14:08:45,958 - root - INFO - appending the gathered data.
-2023-11-25 14:08:51,684 - root - INFO - Time taken to Scrape https://rategain.com/blog/ : 566 seconds.
-2023-11-25 14:08:51,685 - root - INFO - Creating an excel file.
-2023-11-25 14:08:51,691 - root - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:23:13,368 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:23:25,811 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:23:47,973 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:23:49,591 - app - INFO - Starting interation over all pages.
+2023-11-25 16:24:03,662 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:24:03,881 - app - INFO - appending the gathered data.
+2023-11-25 16:24:15,937 - app - INFO - Finding all required elements on page 2
+2023-11-25 16:24:16,059 - app - INFO - appending the gathered data.
+2023-11-25 16:24:23,026 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 33 seconds.
+2023-11-25 16:24:23,026 - app - INFO - Creating an excel file.
+2023-11-25 16:24:23,031 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:26:35,770 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:26:49,392 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:26:51,873 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:26:54,083 - app - INFO - Starting interation over all pages.
+2023-11-25 16:27:06,359 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:27:07,089 - app - INFO - appending the gathered data.
+2023-11-25 16:27:16,965 - app - INFO - Finding all required elements on page 2
+2023-11-25 16:27:17,080 - app - INFO - appending the gathered data.
+2023-11-25 16:27:21,464 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 27 seconds.
+2023-11-25 16:27:21,465 - app - INFO - Creating an excel file.
+2023-11-25 16:27:21,470 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:29:53,311 - flask - INFO - Starting the Scraper
+2023-11-25 16:31:17,458 - flask - INFO - Starting the Scraper
+2023-11-25 16:31:25,514 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:31:37,779 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:31:43,502 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:31:44,774 - app - INFO - Starting interation over all pages.
+2023-11-25 16:31:57,253 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:31:57,455 - app - INFO - appending the gathered data.
+2023-11-25 16:32:08,290 - app - INFO - Finding all required elements on page 2
+2023-11-25 16:32:08,367 - app - INFO - appending the gathered data.
+2023-11-25 16:32:11,662 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 26 seconds.
+2023-11-25 16:32:11,662 - app - INFO - Creating an excel file.
+2023-11-25 16:32:11,666 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:32:14,359 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 16:36:17,395 - flask - INFO - Starting the Scraper
+2023-11-25 16:36:44,172 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:36:55,248 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:37:00,197 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:37:01,932 - app - INFO - Starting interation over all pages.
+2023-11-25 16:37:14,085 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:37:14,314 - app - INFO - appending the gathered data.
+2023-11-25 16:37:18,821 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 16:37:18,821 - app - INFO - Creating an excel file.
+2023-11-25 16:37:18,824 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:37:21,402 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 16:37:38,113 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:37:50,228 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:37:55,180 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:37:56,204 - app - INFO - Starting interation over all pages.
+2023-11-25 16:38:08,496 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:38:08,678 - app - INFO - appending the gathered data.
+2023-11-25 16:38:12,574 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 16 seconds.
+2023-11-25 16:38:12,575 - app - INFO - Creating an excel file.
+2023-11-25 16:38:12,578 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:38:15,162 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 16:41:08,096 - flask - INFO - Starting the Scraper
+2023-11-25 16:41:23,563 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:41:32,263 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:41:40,238 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:41:40,747 - app - INFO - Starting interation over all pages.
+2023-11-25 16:41:52,876 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:41:53,004 - app - INFO - appending the gathered data.
+2023-11-25 16:41:56,315 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 15 seconds.
+2023-11-25 16:41:56,315 - app - INFO - Creating an excel file.
+2023-11-25 16:41:56,321 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-25 16:41:59,129 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-25 16:45:42,651 - flask - INFO - Starting the Scraper
+2023-11-25 16:46:16,347 - app - INFO - Opening Chrome in Testing Environment
+2023-11-25 16:46:24,505 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-25 16:46:33,497 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-25 16:46:33,966 - app - INFO - Starting interation over all pages.
+2023-11-25 16:46:46,246 - app - INFO - Finding all required elements on page 1
+2023-11-25 16:46:46,407 - app - INFO - appending the gathered data.
+2023-11-25 16:46:55,702 - app - INFO - Finding all required elements on page 2
+2023-11-25 16:46:55,875 - app - INFO - appending the gathered data.
+2023-11-25 16:47:05,775 - app - INFO - Finding all required elements on page 3
+2023-11-25 16:47:05,893 - app - INFO - appending the gathered data.
+2023-11-25 16:47:15,856 - app - INFO - Finding all required elements on page 4
+2023-11-25 16:47:16,030 - app - INFO - appending the gathered data.
+2023-11-25 16:47:25,263 - app - INFO - Finding all required elements on page 5
+2023-11-25 16:47:25,458 - app - INFO - appending the gathered data.
+2023-11-25 16:47:37,900 - app - INFO - Finding all required elements on page 6
+2023-11-25 16:47:38,096 - app - INFO - appending the gathered data.
+2023-11-25 16:47:48,281 - app - INFO - Finding all required elements on page 7
+2023-11-25 16:47:48,476 - app - INFO - appending the gathered data.
+2023-11-25 16:47:58,379 - app - INFO - Finding all required elements on page 8
+2023-11-25 16:47:58,579 - app - INFO - appending the gathered data.
+2023-11-25 16:48:11,481 - app - INFO - Finding all required elements on page 9
+2023-11-25 16:48:11,834 - app - INFO - appending the gathered data.
+2023-11-25 16:48:24,778 - app - INFO - Finding all required elements on page 10
+2023-11-25 16:48:24,875 - app - INFO - appending the gathered data.
+2023-11-25 16:48:35,214 - app - INFO - Finding all required elements on page 11
+2023-11-25 16:48:35,399 - app - INFO - appending the gathered data.
