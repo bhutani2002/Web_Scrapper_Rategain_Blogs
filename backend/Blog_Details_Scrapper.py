@@ -75,7 +75,8 @@ def index():
     start = time.time()
 
     app_logger.info("Starting interation over all pages.")
-    for i in range(int(last_page_of_blogs.text)):
+    # for i in range(int(last_page_of_blogs.text)):
+    for i in range(1):
         iteration = 0
         if i == 0:
             val = 2
