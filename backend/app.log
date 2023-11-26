@@ -371,3 +371,15 @@
 2023-11-26 02:59:14,093 - app - INFO - Storing all gathered data to excel workbook.
 2023-11-26 02:59:16,539 - flask - INFO - GET HTTP request -- status-code : 200
 2023-11-26 02:59:22,414 - flask - INFO - Downloading the excel workbook.
+2023-11-26 09:59:48,034 - flask - INFO - Starting the Scraper
+2023-11-26 10:03:24,693 - app - INFO - Opening Chrome in Testing Environment
+2023-11-26 10:03:30,063 - app - INFO - Opening url: https://rategain.com/blog/
+2023-11-26 10:03:39,290 - app - INFO - https://rategain.com/blog/ opened successfully.
+2023-11-26 10:03:41,951 - app - INFO - Starting interation over all pages.
+2023-11-26 10:03:54,117 - app - INFO - Finding all required elements on page 1
+2023-11-26 10:03:54,208 - app - INFO - appending the gathered data.
+2023-11-26 10:03:56,572 - app - INFO - Time taken to Scrape https://rategain.com/blog/ : 14 seconds.
+2023-11-26 10:03:56,573 - app - INFO - Creating an excel file.
+2023-11-26 10:03:56,578 - app - INFO - Storing all gathered data to excel workbook.
+2023-11-26 10:03:59,611 - flask - INFO - GET HTTP request -- status-code : 200
+2023-11-26 10:04:07,236 - flask - INFO - Downloading the excel workbook.

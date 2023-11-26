@@ -16,7 +16,13 @@ import json
 
 local_server = True
 app = Flask(__name__)
-CORS(app, resources={r"/start": {"origins": "http://localhost:3000"}, r"/download_excel": {"origins": "http://localhost:3000"}})
+CORS(
+    app,
+    resources={
+        r"/start": {"origins": "http://localhost:3000"},
+        r"/download_excel": {"origins": "http://localhost:3000"},
+    },
+)
 import logging.config
 
 logging.config.fileConfig("logging.conf", disable_existing_loggers=False)
@@ -75,8 +81,7 @@ def index():
     start = time.time()
 
     app_logger.info("Starting interation over all pages.")
-    # for i in range(int(last_page_of_blogs.text)):
-    for i in range(1):
+    for i in range(int(last_page_of_blogs.text)):
         iteration = 0
         if i == 0:
             val = 2
@@ -240,7 +245,6 @@ def download_excel():
         response.headers["Content-Type"] = "application/json"
         flask_logger.info(f"GET HTTP request -- status-code : {response.status_code}")
         return response
-
 
 
 def setPort():
