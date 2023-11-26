@@ -78,13 +78,11 @@ This will execute the frontend code, and it will be accessible on a port number 
 Now, you have successfully completed the web scraping process and downloaded the extracted data.
 
 #### Working of RateCrawlerX
-### VIDEO
+### Demonstration [Click on the image to view the product demonstration on YouTube]
 
-https://github.com/bhutani2002/Web_Scrapper_Rategain_Blogs/assets/73012643/c4d4fced-0db2-40fa-9988-213a8b58f065
+[![image](https://github.com/bhutani2002/Web_Scrapper_Rategain_Blogs/assets/84590758/77d2b5bd-44e4-4bb3-965a-be78dcda3e51)](https://www.youtube.com/watch?v=UA6EJygA5QQ)
 
 
-### SnapShot of the Landing Page
-![image](https://github.com/bhutani2002/Web_Scrapper_Rategain_Blogs/assets/84590758/77d2b5bd-44e4-4bb3-965a-be78dcda3e51)
 
 
 
@@ -94,5 +92,5 @@ https://github.com/bhutani2002/Web_Scrapper_Rategain_Blogs/assets/73012643/c4d4f
 
 2. Implement a user-friendly component or input mechanism allowing users to specify the desired blog page for data extraction. This feature would enhance customization and enable users to retrieve data from specific sections of the blog website.
 
-3.Enhance modularity by breaking down complex functions into smaller, reusable components, promoting easier maintenance and scalability of the codebase.
+3. Enhance modularity by breaking down complex functions into smaller, reusable components, promoting easier maintenance and scalability of the codebase.
 ```
