@@ -22,7 +22,13 @@ This solution combines a React frontend with a Flask backend to facilitate web s
 
 To collect data efficiently, the backend clicks and moves on to the next blog on each page, overcoming the challenge posed by pagination. Additionally, handling lazy-loaded images is implemented by scrolling the webpage both up and down, ensuring the comprehensive collection of image URLs.
 
-### Technology Stack used:
+## Working of RateCrawlerX
+### Demonstration [Click on the image to view the product demonstration on YouTube]
+
+[![image](https://github.com/bhutani2002/Web_Scrapper_Rategain_Blogs/assets/84590758/77d2b5bd-44e4-4bb3-965a-be78dcda3e51)](https://www.youtube.com/watch?v=UA6EJygA5QQ)
+
+
+## Technology Stack used:
 ```
 - Python
 - Flask
@@ -43,7 +49,7 @@ To collect data efficiently, the backend clicks and moves on to the next blog on
   ```
 - [Python](https://www.python.org/downloads/) (ensure Python is installed on your system)
 
-### Installation
+### Project Setup and Launch Instructions
 
 1. Clone the repo
    ```sh
@@ -76,14 +82,6 @@ This will execute the frontend code, and it will be accessible on a port number 
 9. Once the web scraping is complete, the "Download Extracted Data" button will be enabled. Click on it to download the Excel file containing all the required data from RateGain's blog website.
 
 Now, you have successfully completed the web scraping process and downloaded the extracted data.
-
-#### Working of RateCrawlerX
-### Demonstration [Click on the image to view the product demonstration on YouTube]
-
-[![image](https://github.com/bhutani2002/Web_Scrapper_Rategain_Blogs/assets/84590758/77d2b5bd-44e4-4bb3-965a-be78dcda3e51)](https://www.youtube.com/watch?v=UA6EJygA5QQ)
-
-
-
 
 
 ## Project Scalability / Future Plans
