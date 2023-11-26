@@ -79,10 +79,10 @@ Now, you have successfully completed the web scraping process and downloaded the
 
 #### Working of RateCrawlerX
 ### VIDEO
-```
-[![Watch the video](https://img.youtube.com/vi/9bvI8clkIU8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9bvI8clkIU8)
 
-```
+[![video]](https://img.youtube.com/vi/9bvI8clkIU8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9bvI8clkIU8)
+
+
 ### SnapShot of the Landing Page
 ![image](https://github.com/bhutani2002/Web_Scrapper_Rategain_Blogs/assets/84590758/77d2b5bd-44e4-4bb3-965a-be78dcda3e51)
 
